@@ -6,7 +6,7 @@ The purpose of this project was to create a work day planner that behaves like s
 
 The application has a hour boxes schedule from 9AM to 5PM where you can document all upcoming events for the day. The colours boxes makes easy to track your events, grey indicates past, red indicates the current time and green indicates the future.
 
-![Website Page]()
+![Website Page](https://github.com/Dantas11/Work-Day-Scheduler/blob/main/assets/images/workdayscheduler.png)
 
 
 ## Installation
